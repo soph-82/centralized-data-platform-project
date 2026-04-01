@@ -53,5 +53,5 @@ To improve data accessibility, reduce manual reporting, and enable faster, data-
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard 1.png)
-![Dashboard](dashboard 2.png)
+![Dashboard](dashboard-1.png)
+![Dashboard](dashboard-2.png)
