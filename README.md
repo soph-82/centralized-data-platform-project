@@ -51,7 +51,13 @@ To improve data accessibility, reduce manual reporting, and enable faster, data-
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard](dashboard-1.png)
-![Dashboard](dashboard-2.png)
+## 📊 Dashboards
+
+### Property Listing Dashboard
+![Dashboard 1](dashboards/dashboard-1.png)
+
+---
+
+### Market Insight Dashboard
+![Dashboard 2](dashboards/dashboard-2.png)
